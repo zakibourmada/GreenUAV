@@ -1,6 +1,6 @@
 # GreenUAV
 
-![GreenUAV Logo](link-to-your-logo.png)
+![GreenUAV Logo](GreenUAV.png)
 
 GreenUAV is a flight control firmware written in C/C++ for Unmanned Aerial Vehicles (UAVs), designed to explore the realms of UAV autonomy, control logic, sensors, actuators, and safety measures in aerial robotics.
 
