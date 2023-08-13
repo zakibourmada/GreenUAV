@@ -36,11 +36,7 @@ Contributions are welcome! Whether you're a developer, designer, or UAV enthusia
 
 GreenUAV is open-source software released under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for both personal and commercial purposes.
 
-## Acknowledgements
-
-We are grateful to the open-source community and contributors who have made this project possible. Special thanks to [List of contributors] for their efforts.
-
 ## Contact
 
-For questions, suggestions, or collaborations, reach out to [Your Email Address] or open an issue here on GitHub.
+For questions, suggestions, or collaborations, reach out to zbourmada@gmail.com or open an issue here on GitHub.
 
