@@ -1,4 +1,4 @@
-# GreenUAV - STM32F423xH Flight Control 
+# GreenUAV - microcontrollerENV Flight Control FW 
 
 ![GreenUAV Logo](GreenUAV.png)
 
