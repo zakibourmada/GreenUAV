@@ -1,4 +1,4 @@
-# GreenUAV
+# GreenUAV - STM32F423xH Flight Control 
 
 ![GreenUAV Logo](GreenUAV.png)
 
