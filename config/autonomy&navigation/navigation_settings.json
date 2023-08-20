@@ -1,0 +1,6 @@
+{
+    "obstacle_avoidance": true,
+    "path_planning_algorithm": "A*",
+    "collision_distance": 2
+  }
+  

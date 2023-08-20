@@ -1,0 +1,28 @@
+{
+    "microcontroller": "Raspberry Pi 4B",
+    "cpu_cores": 4,
+    "ram_size": "4 GB",
+    "storage_capacity": "32 GB",
+    "gpio_pins": 40,
+    "usb_ports": 4,
+    "wifi": true,
+    "bluetooth": true,
+    "camera": true,
+    "display": true,
+    "power_supply": {
+      "voltage": 5,
+      "current": 2.5
+    },
+    "communication_interfaces": {
+      "i2c": true,
+      "uart": true,
+      "spi": true
+    },
+    "gpio_configuration": {
+      "pin_mapping": {
+        "led_pin": 17,
+        "button_pin": 18
+      }
+    }
+  }
+  

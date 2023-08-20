@@ -1,0 +1,22 @@
+{
+    "throttle": {
+      "min_value": 1000,
+      "max_value": 2000
+    },
+    "roll": {
+      "min_value": 1000,
+      "max_value": 2000,
+      "neutral_value": 1500
+    },
+    "pitch": {
+      "min_value": 1000,
+      "max_value": 2000,
+      "neutral_value": 1500
+    },
+    "yaw": {
+      "min_value": 1000,
+      "max_value": 2000,
+      "neutral_value": 1500
+    }
+  }
+  

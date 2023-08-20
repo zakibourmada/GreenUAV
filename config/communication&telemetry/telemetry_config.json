@@ -1,0 +1,6 @@
+{
+    "telemetry_interval": 1000,
+    "telemetry_data_types": ["altitude", "velocity", "battery_status"],
+    "transmission_format": "JSON"
+  }
+  

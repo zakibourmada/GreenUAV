@@ -1,0 +1,23 @@
+{
+    "esc1": {
+      "min_pulse_width": 1000,
+      "max_pulse_width": 2000,
+      "neutral_pulse_width": 1500
+    },
+    "esc2": {
+      "min_pulse_width": 1000,
+      "max_pulse_width": 2000,
+      "neutral_pulse_width": 1500
+    },
+    "esc3": {
+      "min_pulse_width": 1000,
+      "max_pulse_width": 2000,
+      "neutral_pulse_width": 1500
+    },
+    "esc4": {
+      "min_pulse_width": 1000,
+      "max_pulse_width": 2000,
+      "neutral_pulse_width": 1500
+    }
+  }
+  

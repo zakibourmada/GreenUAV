@@ -1,0 +1,37 @@
+{
+    "communication_settings": {
+      "communication_protocol": "Bluetooth",
+      "port": 1234,
+      "data_rate": 9600
+    },
+    "telemetry_config": {
+      "telemetry_interval": 500,
+      "telemetry_data_types": ["altitude", "acceleration", "gyroscope"],
+      "transmission_format": "CSV"
+    },
+    "power_settings": {
+      "battery_voltage_threshold": 10.0,
+      "low_power_mode": false,
+      "low_power_shutdown_delay": 0
+    },
+    "safety_settings": {
+      "geofencing": {
+        "enabled": false
+      },
+      "emergency_landing": {
+        "enabled": false
+      },
+      "fail_safe_actions": {
+        "battery_voltage": {
+          "enabled": true,
+          "voltage_threshold": 9.0,
+          "action": "land_immediately"
+        },
+        "communication_loss": {
+          "enabled": true,
+          "action": "hover"
+        }
+      }
+    }
+  }
+  

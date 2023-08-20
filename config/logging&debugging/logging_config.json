@@ -1,0 +1,6 @@
+{
+    "log_level": "info",
+    "log_directory": "logs",
+    "log_file_format": "flight_log_{timestamp}.log"
+  }
+  

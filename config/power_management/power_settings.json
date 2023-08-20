@@ -1,0 +1,6 @@
+{
+    "battery_voltage_threshold": 11.5,
+    "low_power_mode": true,
+    "low_power_shutdown_delay": 300
+  }
+  

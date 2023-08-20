@@ -1,0 +1,23 @@
+{
+    "flight_modes": {
+      "modes": ["manual", "stabilized", "autonomous"],
+      "default_mode": "stabilized"
+    },
+    "waypoint_management": {
+      "max_waypoints": 10,
+      "waypoint_file": "mission.waypoints"
+    },
+    "display_settings": {
+      "brightness": 70,
+      "contrast": 50
+    },
+    "user_input": {
+      "joystick_sensitivity": 0.8,
+      "button_mapping": {
+        "takeoff": "A",
+        "land": "B",
+        "switch_mode": "X"
+      }
+    }
+  }
+  

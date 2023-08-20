@@ -1,0 +1,16 @@
+{
+    "max_altitude": 100,
+    "max_speed": 20,
+    "stabilization_mode": "auto",
+    "control_gains": {
+      "roll": 0.5,
+      "pitch": 0.6,
+      "yaw": 0.4
+    },
+    "takeoff_settings": {
+      "initial_throttle": 1200,
+      "takeoff_altitude": 1.5,
+      "takeoff_speed": 5
+    }
+  }
+  

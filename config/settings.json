@@ -1,0 +1,34 @@
+{
+    "flight_parameters": {
+      "max_altitude": 100,
+      "max_speed": 20,
+      "stabilization_mode": "auto",
+      "control_gains": {
+        "roll": 0.5,
+        "pitch": 0.6,
+        "yaw": 0.4
+      }
+    },
+    "navigation": {
+      "waypoints": [
+        { "latitude": 37.7749, "longitude": -122.4194 },
+        { "latitude": 37.3382, "longitude": -121.8863 }
+      ],
+      "obstacle_avoidance": true,
+      "path_planning_algorithm": "A*"
+    },
+    "communication": {
+      "communication_protocol": "WiFi",
+      "port": 8888,
+      "data_rate": 115200
+    },
+    "power_management": {
+      "battery_voltage_threshold": 11.5,
+      "low_power_mode": true
+    },
+    "logging": {
+      "log_file": "flight_log.txt",
+      "debug_logging": false
+    }
+  }
+  
